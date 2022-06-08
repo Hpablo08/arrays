@@ -6,4 +6,4 @@
 > I want to understand booleans more. I'd like a physical lesson on them so I will probably search for videos regarding them for more explanation.
 
 ## What questions do you have about Arrays?
-Nothing that I can think of right now. I'm just letting all soak in still. 
+>Nothing that I can think of right now. I'm just letting all soak in still.
